@@ -44,3 +44,4 @@
 
 ## 📫 **Get in Touch**
 - **GitHub**: [@Slayz](https://github.com/Slaayyz)
+- **Discord**: [@slayz.net](https://discord.com/users/853315288287281183)
