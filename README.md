@@ -43,6 +43,5 @@
 - 🎮 My gaming setup runs on **Windows**, while I use **Arch Linux** for all my development work on my school and work PC.
 
 ## 📫 **Get in Touch**
-- **GitHub**: [@Slayz](https://github.com/Slaayyz)
 - **Discord**: [@slayz.net](https://discord.com/users/853315288287281183)
 - **Instagram**: [@slayz.fr](https://www.instagram.com/slayz.fr/)
